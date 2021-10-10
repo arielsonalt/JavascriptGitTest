@@ -5,3 +5,5 @@ firstLine.forEach(element => {
 });
 
 let newVariable = [];
+
+let newSecondVariable;
